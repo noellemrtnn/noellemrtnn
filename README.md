@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [backend](https://github.com/noellemrtnn)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://noellemrtnn.github.io/),[Better View](https://dhvsumeditrack.com/noelle-portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://noellemrtnn.github.io/)
 
 - 💬 Ask me about **anything**
 
