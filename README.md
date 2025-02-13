@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js , React**
 
-- 👯 I’m looking to collaborate on [DakilaSoft](https://github.com/DakilaSoft)
+- 👯 I’m currently an Intern Student in [DakilaSoft](https://github.com/DakilaSoft)
 
 - 🤝 I’m looking for help with [backend](https://github.com/noellemrtnn)
 
